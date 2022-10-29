@@ -1,0 +1,12 @@
+NeutroTerminal v1.2
+write file and copy file is added
+
+
+NeutroTerminal v1.3
+copy file and dir is added
+
+
+
+
+
+END
